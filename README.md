@@ -1,6 +1,6 @@
 # Structure du projet
 
-## Racine (`eq_3_03_chelli-enzo_fourage-esteban_lucas-lilian_musset-shawn/`)
+## Racine
 
 Le répertoire racine contient l’ensemble des ressources du projet : diagrammes, évaluations, site web et documentation générale.
 
