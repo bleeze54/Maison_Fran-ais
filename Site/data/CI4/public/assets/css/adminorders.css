@@ -1,0 +1,122 @@
+.admin_orders_page * {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.admin_orders_page {
+    min-height: 100vh;
+    padding: 120px 20px 100px; 
+    background: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.admin_orders_page h1 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #111;
+    margin-bottom: 20px;
+}
+
+.flash_success {
+    color: #2a9d8f;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.order_card {
+    background: #fff;
+    width: 100%;
+    max-width: 900px;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    padding: 25px 35px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    transition: transform 0.2s, background 0.2s;
+}
+
+.order_card:hover {
+    transform: translateY(-3px);
+    background: #f9f9f9;
+}
+
+.order_header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    color: #333;
+}
+
+.order_user p {
+    margin: 4px 0;
+    font-size: 14px;
+    color: #555;
+}
+
+.order_items ul {
+    margin: 5px 0 0 20px;
+    padding: 0;
+    list-style: disc;
+    color: #444;
+    font-size: 14px;
+}
+
+.order_status_form {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.status_badge {
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+
+.status-en_attente { background: #f0ad4e; }
+.status-livree { background: #5cb85c; }
+.status-annulee { background: #d9534f; }
+.status-remboursee { background: #0275d8; }
+
+select {
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+.btn_update {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 6px;
+    background: #000;
+    color: #fff;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.btn_update:hover {
+    background: #333;
+}
+
+@media (max-width: 700px) {
+    .order_header {
+        flex-direction: column;
+        gap: 6px;
+    }
+
+    .order_status_form {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}

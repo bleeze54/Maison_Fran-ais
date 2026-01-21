@@ -1,0 +1,164 @@
+.infocommande_page * {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.infocommande_page {
+    min-height: 100vh;
+    background: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px 20px 100px; /* padding top = header, bottom = footer */
+}
+
+.infocommande_card {
+    background: #fff;
+    width: 100%;
+    max-width: 800px;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    padding: 30px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.infocommande_card h2 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #111;
+    margin-bottom: 10px;
+}
+
+.item_commande {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 20px;
+    align-items: center;
+    padding: 18px 22px;
+    border-radius: 14px;
+    background: #f0f0f0;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.05);
+}
+
+.item_commande b {
+    font-size: 17px;
+    font-weight: 600;
+    color: #111;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.item_commande .infos {
+    font-size: 14px;
+    color: #444;
+    line-height: 1.6;
+}
+
+.product_preview {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.item_image {
+    width: 64px;
+    height: 64px;
+    border-radius: 10px;
+    overflow: hidden;
+    flex: 0 0 64px;
+    background: #fff;
+    display: inline-block;
+}
+
+.item_image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.item_name {
+    margin: 0;
+    font-weight: 600;
+    color: #111;
+}
+
+.item_commande .prix_infos {
+    text-align: right;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.item_commande .prix_infos strong {
+    font-size: 15px;
+    color: #000;
+}
+
+.total_commande {
+    text-align: right;
+    font-size: 18px;
+    font-weight: 600;
+    color: #000;
+    margin-top: 10px;
+}
+
+.commande_form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 20px;
+}
+
+.commande_form input,
+.commande_form select {
+    padding: 14px 18px;
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    font-size: 15px;
+    transition: 0.2s;
+}
+
+.commande_form input:focus,
+.commande_form select:focus {
+    border-color: #000;
+    outline: none;
+}
+
+.bouton_commander {
+    padding: 14px;
+    border: none;
+    border-radius: 12px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.2s;
+    width: 100%;
+}
+
+.bouton_commander:hover {
+    background: #333;
+}
+
+@media (max-width: 700px) {
+    .item_commande {
+        grid-template-columns: 1fr;
+        gap: 14px;
+    }
+
+    .item_commande .prix_infos {
+        text-align: left;
+    }
+
+    .item_image {
+        width: 48px;
+        height: 48px;
+        flex: 0 0 48px;
+    }
+    .product_preview {
+        gap: 10px;
+    }
+}

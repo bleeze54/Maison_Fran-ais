@@ -1,0 +1,243 @@
+body.page_categorie {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #f8f8f8;
+  color: #222;
+  overflow-x: hidden;
+}
+
+
+.header_cat {
+  position: relative;
+  height: 45vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  border-radius: 0 0 35px 35px;
+}
+
+.bg_header {
+  position: absolute;
+  inset: 0;
+  background-image: url("https://source.unsplash.com/2000x1100/?fashion,clothes");
+  background-size: cover;
+  background-position: center;
+  filter: brightness(0.45);
+  transform: scale(1.2);
+  animation: parallaxSlow 18s infinite linear;
+  z-index: 1;
+}
+
+@keyframes parallaxSlow {
+  0% { transform: scale(1.2) translateY(0); }
+  50% { transform: scale(1.22) translateY(-18px); }
+  100% { transform: scale(1.2) translateY(0); }
+}
+
+.header_content {
+  position: relative;
+  z-index: 3;
+  color: #fff;
+  backdrop-filter: blur(3px);
+  padding: 20px 40px;
+  border-radius: 16px;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.25);
+}
+
+.header_content h1 {
+  font-size: 3rem;
+  margin: 0 0 8px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.header_content p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+.grille_produits {
+  max-width: 1350px;
+  margin: 70px auto;
+  margin-top: 100px;
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 40px;
+}
+
+
+.produit {
+  background: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 12px 28px rgba(0,0,0,0.08);
+  transition: 0.35s ease, transform 0.35s ease;
+  border: 1px solid #eee;
+}
+
+.produit:hover {
+  transform: translateY(-10px) scale(1.02);
+  box-shadow: 0 22px 42px rgba(0,0,0,0.12);
+}
+
+
+.img_produit {
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  transition: 0.35s ease;
+}
+
+.produit:hover .img_produit {
+  filter: brightness(1.05);
+}
+
+.img_produit::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, rgba(255,255,255,0.15), transparent 70%);
+  opacity: 0;
+  transition: 0.35s ease;
+}
+
+.produit:hover .img_produit::after {
+  opacity: 1;
+}
+
+
+.infos_produit {
+  padding: 20px;
+  text-align: center;
+}
+
+.infos_produit h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.prix {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #111;
+}
+
+.desc {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 18px;
+  line-height: 1.5;
+}
+
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: #111;
+  color: #fff;
+  font-size: 0.92rem;
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+
+.btn:hover {
+  transform: scale(1.07);
+  background: #000;
+}
+
+
+@media (max-width: 900px) {
+  .nav_liste { gap: 18px; flex-wrap: wrap; }
+}
+
+@media (max-width: 768px) {
+  .conteneur_en_tete { flex-direction: column; gap: 10px; }
+  .barre_navigation { margin-left: 0; width: 100%; }
+  .nav_liste { justify-content: center; gap: 12px; }
+  .actions_header { justify-content: center; }
+  .img_produit { height: 250px; }
+}
+
+@media (max-width: 480px) {
+  .grille_produits { gap: 25px; }
+  .infos_produit h3 { font-size: 1.1rem; }
+  .prix { font-size: 1.05rem; }
+  .btn { padding: 9px 16px; font-size: 0.88rem; }
+}
+/* PRIX AVEC REDUCTION */
+
+.categorie_prix_reduc {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+}
+
+/* Ancien prix barré */
+.prix_ancien {
+    font-size: 15px;
+    color: #c0392b;
+    text-decoration: line-through;
+}
+
+/* Nouveau prix */
+.prix_nouveau {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+}
+
+/* Badge réduction */
+.badge_reduction {
+    background: #c0392b;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 4px 8px;
+    border-radius: 6px;
+}
+
+
+/* ==============================
+   PRIX AVEC REDUCTION
+============================== */
+
+.categorie_prix_reduc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 14px;
+}
+
+/* Ancien prix barré en rouge */
+.prix_ancien {
+    font-size: 15px;
+    color: #c0392b;
+    text-decoration: line-through;
+}
+
+/* Nouveau prix mis en avant */
+.prix_nouveau {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+}
+
+/* Badge réduction */
+.badge_reduction {
+    background-color: #c0392b;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 4px 8px;
+    border-radius: 6px;
+    display: inline-block;
+}

@@ -1,0 +1,32 @@
+$this->forge->addField([
+    'id' => [
+        'type' => 'INT',
+        'unsigned' => true,
+        'auto_increment' => true,
+    ],
+    'cart_id' => [
+        'type' => 'INT',
+        'unsigned' => true,
+    ],
+    'product_id' => [
+        'type' => 'INT',
+        'unsigned' => true,
+    ],
+    'quantity' => [
+        'type' => 'INT',
+        'unsigned' => true,
+    ],
+]);
+
+$this->forge->addKey('id', true);
+
+//DELETE ON CASCADE
+$this->forge->addForeignKey(
+    'cart_id',
+    'carts',
+    'id',
+    'CASCADE', // ON DELETE
+    'CASCADE'  // ON UPDATE
+);
+
+$this->forge->createTable('cart_items');

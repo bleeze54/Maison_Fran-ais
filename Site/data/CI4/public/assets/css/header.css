@@ -1,0 +1,278 @@
+/* 4. Style "Bulk" pour vos boutons existants (Optionnel pour coller à l'image) */
+.logo_symbole {
+  border-radius: 0px; /* Bulk utilise des angles droits */
+  background: #000;
+}
+
+.bouton_connexion, .bouton_panier {
+  border-radius: 0px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* Ajustement du conteneur pour qu'il ne soit pas collé à la bannière */
+.conteneur_en_tete {
+  max-width: 1350px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 28px; /* Réduit un peu le padding pour compenser la bannière */
+  background:none;
+}
+
+/* IMPORTANT : Décale le contenu de votre page vers le bas */
+
+/* 1. La bannière (comportement normal) */
+.top_bar_promo {
+  width: 100%;
+  background: rgba(255, 235, 59, 0.9); /* jaune avec légère transparence */
+  color: #000;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;     /* normal flow, will scroll away */
+  top: auto;
+  left: 0;
+  z-index: 30;          /* sous le header sticky pour éviter tout recouvrement */
+}
+
+/* Le header englobant ne doit pas être fixé */
+.en_tete {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.85);
+  z-index: 50;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+/* On rend uniquement le conteneur interne sticky :
+   il se collera en haut quand on descend, masquant naturellement le bandeau jaune qui aura défilé */
+.conteneur_en_tete {
+  max-width: 1350px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 28px;
+  position: relative; /* overrides previous sticky */
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(12px);
+  background:none;
+  z-index: 50;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+/* Ajustements visuels facultatifs après le sticky */
+.conteneur_en_tete {
+  transition: padding .2s ease, background .2s ease;
+}
+
+/* 3. IMPORTANT : Ajuste la section Hero pour qu'elle ne remonte pas trop haut */
+.section_hero {
+  margin-top: 0; /* Avec 'sticky', le header prend sa place réelle, pas besoin de décalage forcé */
+  height: 85vh;
+  position: relative;
+}
+
+/* 4. On enlève le padding-top du body qui pourrait tout décaler */
+body.corps_page {
+  padding-top: 80px; /* ajuster si nécessaire selon la hauteur réelle du header */
+}
+
+
+
+
+.en_tete {
+  /* était en position: fixed; => on laisse le wrapper dans le flux */
+  position: fixed;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.85);
+  z-index: 50;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+.conteneur_en_tete {
+  /* ce bloc (le plus bas dans le fichier) devient sticky pour masquer naturellement la bannière au scroll */
+  padding: 14px 28px;
+  position: relative; /* overrides previous sticky */
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.85);
+  z-index: 50;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+.logo_site {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #111;
+  gap: 8px;
+}
+
+.logo_symbole {
+  font-weight: 700;
+  font-size: 24px;
+  background: #111;
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 10px;
+  letter-spacing: 1px;
+  transition: transform .2s ease;
+}
+
+.logo_site:hover .logo_symbole {
+  transform: scale(1.1);
+}
+
+.logo_texte {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.barre_navigation .nav_liste {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+
+.nav_lien {
+  text-decoration: none;
+  color: #222;
+  font-weight: 500;
+  position: relative;
+}
+
+.nav_lien::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  bottom: -3px;
+  left: 0;
+  background: #111;
+  transition: width .25s ease;
+}
+
+.nav_lien:hover::after {
+  width: 100%;
+}
+
+.nav_deroule {
+  position: relative;
+}
+
+.sous_nav_liste {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-8px);
+  transition: .25s ease;
+}
+
+.nav_deroule:hover .sous_nav_liste {
+  opacity: 1;
+  pointer-events: all;
+  transform: translateY(0);
+}
+
+.sous_nav_liste li {
+  border-bottom: 1px solid #eee;
+}
+
+.sous_nav_liste li:last-child {
+  border-bottom: none;
+}
+
+.sous_nav_liste a {
+  display: block;
+  padding: 10px 14px;
+  color: #222;
+  text-decoration: none;
+}
+
+.actions_header {
+  display: flex;
+  gap: 15px;
+}
+
+.bouton_connexion,
+.bouton_panier {
+  padding: 10px 16px;
+  background: #111;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: .25s ease;
+}
+
+.bouton_connexion:hover,
+.bouton_panier:hover {
+  transform: scale(1.07);
+}
+
+.header_user {
+    font-weight: 600;
+    margin-left: 10px;
+    color: #333;
+
+}
+
+.menu_compte_liste {
+  position: absolute;
+  right: 0;
+  top: 120%;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+  list-style: none;
+  min-width: 200px;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-10px);
+  transition: opacity .25s ease 3s, transform .25s ease 3s;
+  z-index: 100;
+}
+
+.menu_compte:focus-within .menu_compte_liste {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+  transition-delay: 3s;
+}
+
+.menu_compte:hover .menu_compte_liste {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+  transition-delay: 0s;
+}
+
+.logo_img {
+  max-width: 170px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.logo_img:hover {
+  transform: scale(1.1);
+}

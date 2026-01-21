@@ -1,0 +1,193 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #f8f8f8;
+  color: #222;
+}
+
+
+.container {
+  max-width: 1350px;
+  margin: 100px auto 80px;
+  padding: 0 20px;
+}
+
+.container h1 {
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin-bottom: 50px;
+  letter-spacing: 1px;
+}
+
+
+
+.favoris-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 40px;
+}
+
+
+
+.favori-card {
+  background: #fff;
+  border-radius: 22px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.08);
+  transition: 0.35s ease;
+  border: 1px solid #eee;
+  text-align: center;
+}
+
+.favori-card:hover {
+  transform: translateY(-10px) scale(1.02);
+  box-shadow: 0 24px 45px rgba(0, 0, 0, 0.12);
+}
+
+
+
+.favori-card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  transition: 0.4s ease;
+}
+
+.favori-card:hover img {
+  filter: brightness(1.05);
+}
+
+.favori-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, rgba(255,255,255,0.18), transparent 70%);
+  opacity: 0;
+  transition: 0.4s ease;
+  pointer-events: none;
+}
+
+.favori-card:hover::after {
+  opacity: 1;
+}
+
+
+
+.favori-card h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 18px 15px 8px;
+  color: #111; /* rendre le nom du produit bien lisible */
+}
+
+.favori-card a h3 {
+  color: #000 !important;
+}
+
+.favori-card p {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #111;
+  margin-bottom: 18px;
+}
+
+
+.favori-card a {
+  text-decoration: none;
+  color: inherit; /* ne pas forcer le gris, laisser les enfants définir leur couleur */
+}
+
+.favori-card a:not(.bouton_voir) {
+  color: inherit;
+}
+
+
+
+.bouton_voir {
+  display: inline-block;
+  padding: 11px 22px;
+  border-radius: 12px;
+  background: #000000;
+  color: #fff;
+  font-size: 0.95rem;
+  margin-bottom: 22px;
+  transition: 0.3s ease;
+}
+
+.bouton_voir:hover {
+  background: #000000;
+  transform: scale(1.07);
+  color: #fff;
+}
+
+
+
+.remove-fav {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(228, 224, 224, 0.9);
+  color: #e74c3c;
+  font-size: 1.4rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+  transition: 0.3s ease;
+  z-index: 3;
+}
+
+.remove-fav:hover {
+  background: #e74c3c;
+  color: #fff;
+  transform: rotate(90deg) scale(1.1);
+}
+
+
+.container p {
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.container p a {
+  color: #111;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.favori-card .bouton_voir {
+  color: #fff !important;
+}
+
+
+
+@media (max-width: 768px) {
+  .container {
+    margin-top: 70px;
+  }
+
+  .favori-card img {
+    height: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container h1 {
+    font-size: 2rem;
+  }
+
+  .favoris-grid {
+    gap: 28px;
+  }
+
+  .favori-card img {
+    height: 220px;
+  }
+}
+

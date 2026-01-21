@@ -1,0 +1,229 @@
+.panier_page * {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.panier_page {
+    min-height: 100vh;
+    background: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+}
+
+.panier_card {
+    background: #fff;
+    margin-top: 100px;
+    width: 100%;
+    max-width: 800px;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    padding: 30px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.panier_card h2 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #111;
+    margin-bottom: 10px;
+}
+
+.panier_card p {
+    font-size: 16px;
+    color: #555555;
+    opacity: 0.9;
+}
+
+/* ===== PRODUIT PANIER ===== */
+
+.item_panier {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 20px;
+    align-items: center;
+    padding: 18px 22px;
+    border-radius: 14px;
+    background: #f0f0f0;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.05);
+}
+
+/* -------- Colonne infos -------- */
+.item_panier b {
+    font-size: 17px;
+    font-weight: 600;
+    color: #111;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.item_panier .infos {
+    font-size: 14px;
+    color: #444;
+    line-height: 1.6;
+}
+
+/* Product preview (image + name) */
+.product_preview {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.item_image {
+    width: 64px;
+    height: 64px;
+    border-radius: 10px;
+    overflow: hidden;
+    flex: 0 0 64px;
+    background: #fff;
+    display: inline-block;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+}
+
+.item_image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.item_name {
+    margin: 0;
+    font-weight: 600;
+    color: #111;
+}
+
+/* -------- Prix & quantité -------- */
+.item_panier .prix_infos {
+    text-align: right;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.item_panier .prix_infos strong {
+    font-size: 15px;
+    color: #000;
+}
+
+/* Badge réduction */
+.badge_reduction {
+    display: inline-block;
+    margin-left: 6px;
+    padding: 3px 8px;
+    background: #000;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+/* Sous-total bien visible */
+.item_panier .sous_total {
+    margin-top: 6px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+/* -------- Actions -------- */
+.item_panier .actions {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.item_panier .actions a {
+    text-decoration: none;
+    padding: 7px 12px;
+    border-radius: 10px;
+    background: #000;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    transition: 0.2s;
+}
+
+.item_panier .actions a:hover {
+    background: #333;
+}
+
+/* Bouton supprimer distinct */
+.item_panier .actions a:last-child {
+    background: #d11a2a;
+}
+
+.item_panier .actions a:last-child:hover {
+    background: #b01522;
+}
+
+.total_panier {
+    text-align: right;
+    font-size: 18px;
+    font-weight: 600;
+    color: #000;
+    margin-top: 10px;
+}
+
+.bouton_commander {
+    padding: 14px;
+    border: none;
+    border-radius: 12px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.2s;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.bouton_commander:hover {
+    background: #333;
+}
+
+.bouton_continue {
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 10px 16px;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: 500;
+    transition: 0.2s;
+}
+
+.bouton_continue:hover {
+    background: #333;
+}
+
+
+@media (max-width: 700px) {
+   .item_panier {
+        grid-template-columns: 1fr;
+        gap: 14px;
+    }
+
+    .item_panier .prix_infos {
+        text-align: left;
+    }
+
+    .item_panier .actions {
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+    .item_image {
+        width: 48px;
+        height: 48px;
+        flex: 0 0 48px;
+    }
+
+    .product_preview {
+        gap: 10px;
+    }
+}

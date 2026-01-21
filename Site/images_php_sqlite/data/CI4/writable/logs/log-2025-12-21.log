@@ -1,0 +1,1594 @@
+CRITICAL - 2025-12-21 00:21:31 --> Error: Class "Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:21:35 --> Error: Class "Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:21:45 --> Error: Class "Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:24:42 --> Error: Class "Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:24:42 --> Error: Class "Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:25:24 --> Error: Class "Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:31:05 --> Error: Class "App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 18.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:32:42 --> Error: Class "App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 18.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:32:43 --> Error: Class "App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 18.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:35:09 --> Error: Class "App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 18.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(15): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:41:59 --> ErrorException: Trait "App\Controllers\App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:42:24 --> ErrorException: Trait "App\Controllers\App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:42:25 --> ErrorException: Trait "App\Controllers\App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:42:40 --> ErrorException: Undefined variable $produit
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 APPPATH/Views/pulls.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produit', '/var/www/html/CI4/app/Views/pulls.php', 16)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:42:41 --> ErrorException: Undefined variable $produit
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 APPPATH/Views/pulls.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produit', '/var/www/html/CI4/app/Views/pulls.php', 16)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:42:41 --> ErrorException: Undefined variable $produit
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 APPPATH/Views/pulls.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produit', '/var/www/html/CI4/app/Views/pulls.php', 16)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:42:49 --> ErrorException: Undefined variable $produit
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 APPPATH/Views/pulls.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produit', '/var/www/html/CI4/app/Views/pulls.php', 16)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:43:11 --> ErrorException: Undefined variable $produit
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 16.
+ 1 APPPATH/Views/pulls.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produit', '/var/www/html/CI4/app/Views/pulls.php', 16)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:43:46 --> ErrorException: Undefined variable $produit
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 17.
+ 1 APPPATH/Views/pulls.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produit', '/var/www/html/CI4/app/Views/pulls.php', 17)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:43:46 --> ErrorException: Undefined variable $produit
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 17.
+ 1 APPPATH/Views/pulls.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produit', '/var/www/html/CI4/app/Views/pulls.php', 17)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:43:46 --> ErrorException: Undefined variable $produit
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 17.
+ 1 APPPATH/Views/pulls.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produit', '/var/www/html/CI4/app/Views/pulls.php', 17)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:45:05 --> ErrorException: Trait "App\Controllers\App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:45:36 --> ErrorException: Trait "App\Controllers\App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:45:37 --> ErrorException: Trait "App\Controllers\App\Model\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:47:47 --> ErrorException: Trait "App\Controllers\App\Model\Product" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:47:53 --> ErrorException: Trait "App\Controllers\App\Model\Product" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:48:46 --> ErrorException: Trait "App\Controllers\App\Model\Product" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:48:47 --> ErrorException: Trait "App\Controllers\App\Model\Product" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 00:50:19 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:50:20 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:53:10 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:53:13 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:56:03 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:56:04 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 00:56:05 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:01:26 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:01:26 --> ErrorException: Uncaught TypeError: CodeIgniter\Debug\BaseExceptionHandler::maskSensitiveData(): Argument #2 ($keysToMask) must be of type array, int given, called in /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php on line 82 and defined in /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php:99
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(82): CodeIgniter\Debug\BaseExceptionHandler->maskSensitiveData(Array, 0)
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->collectVars(Object(Error), 500)
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->{closure:CodeIgniter\Debug\BaseExceptionHandler::render():260}()
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/ExceptionHandler.php(116): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, '/var/www/html/C...')
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "App\Controllers\Produit" not found
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Debug/BaseExceptionHandler.php on line 99.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 01:01:32 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:01:32 --> ErrorException: Uncaught TypeError: CodeIgniter\Debug\BaseExceptionHandler::maskSensitiveData(): Argument #2 ($keysToMask) must be of type array, int given, called in /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php on line 82 and defined in /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php:99
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(82): CodeIgniter\Debug\BaseExceptionHandler->maskSensitiveData(Array, 0)
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->collectVars(Object(Error), 500)
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->{closure:CodeIgniter\Debug\BaseExceptionHandler::render():260}()
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/ExceptionHandler.php(116): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, '/var/www/html/C...')
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "App\Controllers\Produit" not found
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Debug/BaseExceptionHandler.php on line 99.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 01:01:38 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:01:38 --> ErrorException: Uncaught TypeError: CodeIgniter\Debug\BaseExceptionHandler::maskSensitiveData(): Argument #2 ($keysToMask) must be of type array, int given, called in /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php on line 82 and defined in /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php:99
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(82): CodeIgniter\Debug\BaseExceptionHandler->maskSensitiveData(Array, 0)
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->collectVars(Object(Error), 500)
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->{closure:CodeIgniter\Debug\BaseExceptionHandler::render():260}()
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/ExceptionHandler.php(116): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, '/var/www/html/C...')
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "App\Controllers\Produit" not found
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Debug/BaseExceptionHandler.php on line 99.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 01:01:59 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:01:59 --> ErrorException: Uncaught TypeError: CodeIgniter\Debug\BaseExceptionHandler::maskSensitiveData(): Argument #2 ($keysToMask) must be of type array, int given, called in /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php on line 82 and defined in /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php:99
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(82): CodeIgniter\Debug\BaseExceptionHandler->maskSensitiveData(Array, 0)
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->collectVars(Object(Error), 500)
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->{closure:CodeIgniter\Debug\BaseExceptionHandler::render():260}()
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/ExceptionHandler.php(116): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, '/var/www/html/C...')
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "App\Controllers\Produit" not found
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Debug/BaseExceptionHandler.php on line 99.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-12-21 01:03:36 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:08:09 --> Error: Class "App\Controllers\Produit" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:16:16 --> Error: Class "App\Model\Product" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:17:17 --> Error: Class "App\Model\Product" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:20:35 --> Error: Class "App\Models\Product" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:23:43 --> Error: Class "App\Enum\Category" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:28:07 --> Error: Class "App\Enum\Category" not found
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 01:32:26 --> Error: Unknown named parameter $categorie
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 01:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 01:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 01:50:54 --> ErrorException: Undefined variable $produits
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 17.
+ 1 APPPATH/Views/pulls.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produits', '/var/www/html/CI4/app/Views/pulls.php', 17)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(29): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 13:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 13:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 13:24:20 --> ErrorException: Undefined variable $produits
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 17.
+ 1 APPPATH/Views/pulls.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produits', '/var/www/html/CI4/app/Views/pulls.php', 17)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(29): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 13:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 13:30:13 --> ErrorException: Undefined variable $produitModel
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 17.
+ 1 APPPATH/Views/pulls.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produitModel', '/var/www/html/CI4/app/Views/pulls.php', 17)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(29): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 13:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 13:30:54 --> Error: Undefined constant "Product"
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 17.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(29): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 13:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 13:32:17 --> ArgumentCountError: Too few arguments to function App\Models\Product::__construct(), 0 passed in /var/www/html/CI4/app/Views/pulls.php on line 17 and exactly 6 expected
+[Method: GET, Route: pulls]
+in APPPATH/Models/Product.php on line 16.
+ 1 APPPATH/Views/pulls.php(17): App\Models\Product->__construct()
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(29): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:16:34 --> Error: Unknown named parameter $nom
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:19:53 --> Error: Unknown named parameter $nom
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:19:54 --> Error: Unknown named parameter $nom
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:20:56 --> ErrorException: Undefined variable $product
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 16.
+ 1 APPPATH/Controllers/Pulls.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $product', '/var/www/html/CI4/app/Controllers/Pulls.php', 16)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:21:42 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\Product::getNom
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Model.php on line 927.
+ 1 APPPATH/Controllers/Pulls.php(16): CodeIgniter\Model->__call('getNom', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:23:19 --> Error: Unknown named parameter $nom
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:25:01 --> Error: Undefined constant App\Enum\Category::PULL
+[Method: GET, Route: pulls]
+in APPPATH/Controllers/Pulls.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-12-21 14:26:40 --> SQLite3Exception: no such table: produits in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:175
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `pr...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `pr...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/html/CI4/app/Controllers/Pulls.php(18): CodeIgniter\Model->insert(Array)
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#10 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-12-21 14:26:40 --> CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:26:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:26:40 --> [Caused by] SQLite3Exception: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 175.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-12-21 14:33:40 --> SQLite3Exception: no such table: produits in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:175
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `pr...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `pr...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/html/CI4/app/Controllers/Pulls.php(18): CodeIgniter\Model->insert(Array)
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#10 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-12-21 14:33:40 --> CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:33:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:33:40 --> [Caused by] SQLite3Exception: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 175.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-12-21 14:56:12 --> SQLite3Exception: no such table: produits in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:175
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `pr...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `pr...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/html/CI4/app/Controllers/Pulls.php(18): CodeIgniter\Model->insert(Array)
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#10 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-12-21 14:56:12 --> CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:56:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:56:12 --> [Caused by] SQLite3Exception: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 175.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-12-21 14:56:14 --> SQLite3Exception: no such table: produits in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:175
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `pr...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `pr...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/html/CI4/app/Controllers/Pulls.php(18): CodeIgniter\Model->insert(Array)
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#10 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-12-21 14:56:14 --> CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:56:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:56:14 --> [Caused by] SQLite3Exception: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 175.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-12-21 14:57:46 --> SQLite3Exception: no such table: produits in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:175
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `pr...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `pr...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/html/CI4/app/Controllers/Pulls.php(18): CodeIgniter\Model->insert(Array)
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#10 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-12-21 14:57:46 --> CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:57:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 14:57:46 --> [Caused by] SQLite3Exception: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 175.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-12-21 15:00:59 --> SQLite3Exception: no such table: produits in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:175
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `pr...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `pr...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/html/CI4/app/Controllers/Pulls.php(18): CodeIgniter\Model->insert(Array)
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#10 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-12-21 15:00:59 --> CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 15:00:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 15:00:59 --> [Caused by] SQLite3Exception: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 175.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-12-21 15:10:33 --> SQLite3Exception: no such table: produits in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:175
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `pr...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `pr...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/html/CI4/app/Controllers/Pulls.php(18): CodeIgniter\Model->insert(Array)
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#10 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-12-21 15:10:33 --> CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 15:10:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 15:10:33 --> [Caused by] SQLite3Exception: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 175.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-12-21 15:20:48 --> SQLite3Exception: no such table: produits in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:175
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `pr...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `pr...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/html/CI4/app/Controllers/Pulls.php(18): CodeIgniter\Model->insert(Array)
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#10 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-12-21 15:20:48 --> CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 15:20:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 15:20:48 --> [Caused by] SQLite3Exception: no such table: produits
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 175.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(175): SQLite3->exec('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (\'Pull en laine\', 59.99, \'Pull chaud pour l’hiver\', \'["pull1.jpg","pull2.jpg"]\', 10, \'pull\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `produits` (`nom`, `prix`, `description`, `images`, `quantite`, `category`) VALUES (:nom:, :prix:, :description:, :images:, :quantite:, :category:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/Pulls.php(18): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 15:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 15:27:44 --> Error: Class "Product" not found
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 17.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(35): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 15:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 15:29:03 --> ErrorException: Undefined variable $produitsFiltres
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 21.
+ 1 APPPATH/Views/pulls.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produitsFiltres', '/var/www/html/CI4/app/Views/pulls.php', 21)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 5 APPPATH/Controllers/Pulls.php(35): view('pulls')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 15:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 15:31:42 --> Error: Call to a member function getId() on array
+[Method: GET, Route: pulls]
+in APPPATH/Views/pulls.php on line 22.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 3 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 4 APPPATH/Controllers/Pulls.php(35): view('pulls')
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 15:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 16:01:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "product_form.php"
+[Method: GET, Route: products/create]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product_form.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('product_form', [], true)
+ 3 APPPATH/Controllers/Addproduct.php(13): view('product_form', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Addproduct->create()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addproduct))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 16:36:08 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Addproduct.php"
+[Method: GET, Route: products/create]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Addproduct.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('Addproduct.php', [], true)
+ 3 APPPATH/Controllers/Addproduct.php(13): view('Addproduct.php', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Addproduct->create()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addproduct))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 16:36:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Addproduct.php"
+[Method: GET, Route: products/create]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Addproduct.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('Addproduct.php', [], true)
+ 3 APPPATH/Controllers/Addproduct.php(13): view('Addproduct.php', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Addproduct->create()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addproduct))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 16:36:26 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Addproduct.php"
+[Method: GET, Route: products/create]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Addproduct.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('Addproduct', [], true)
+ 3 APPPATH/Controllers/Addproduct.php(13): view('Addproduct', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Addproduct->create()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addproduct))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 16:36:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Addproduct.php"
+[Method: GET, Route: products/create]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Addproduct.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('Addproduct', [], true)
+ 3 APPPATH/Controllers/Addproduct.php(13): view('Addproduct', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Addproduct->create()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addproduct))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 16:37:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Aaddproduct.php"
+[Method: GET, Route: products/create]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Aaddproduct.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('Aaddproduct', [], true)
+ 3 APPPATH/Controllers/Addproduct.php(13): view('Aaddproduct', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Addproduct->create()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addproduct))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 16:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:48:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 16:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:25:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:34:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-12-21 18:38:59 --> SQLite3Exception: Unable to prepare statement: no such column: categorie in /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php:176
+Stack trace:
+#0 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/SQLite3/Connection.php(176): SQLite3->query('SELECT *\nFROM `...')
+#1 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('SELECT *\nFROM `...')
+#2 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /var/www/html/CI4/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /var/www/html/CI4/vendor/codeigniter4/framework/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/CI4/vendor/codeigniter4/framework/system/BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+#6 /var/www/html/CI4/app/Views/pulls.php(18): CodeIgniter\BaseModel->findAll()
+#7 /var/www/html/CI4/vendor/codeigniter4/framework/system/View/View.php(226): include('/var/www/html/C...')
+#8 /var/www/html/CI4/vendor/codeigniter4/framework/system/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+#9 /var/www/html/CI4/vendor/codeigniter4/framework/system/Common.php(1167): CodeIgniter\View\View->render('pulls', Array, true)
+#10 /var/www/html/CI4/app/Controllers/Pulls.php(18): view('pulls')
+#11 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Pulls->index()
+#12 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+#13 /var/www/html/CI4/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#15 /var/www/html/CI4/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#16 /var/www/html/CI4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#17 {main}
+CRITICAL - 2025-12-21 18:38:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to prepare statement: no such column: categorie
+[Method: GET, Route: pulls]
+in SYSTEMPATH/Database/BaseConnection.php on line 684.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produits`
+WHERE `categorie` = :categorie:', [...], false)
+ 2 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH/Views/pulls.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 6 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 7 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+ 8 APPPATH/Controllers/Pulls.php(18): view('pulls')
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+10 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+11 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 18:38:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unable to prepare statement: no such column: categorie
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 181.
+ 1 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('SELECT *
+FROM `produits`
+WHERE `categorie` = \'pulls\'')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produits`
+WHERE `categorie` = \'pulls\'')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produits`
+WHERE `categorie` = :categorie:', [...], false)
+ 4 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH/Views/pulls.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 8 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 9 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+10 APPPATH/Controllers/Pulls.php(18): view('pulls')
+11 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+12 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+13 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 18:38:59 --> [Caused by] SQLite3Exception: Unable to prepare statement: no such column: categorie
+in SYSTEMPATH/Database/SQLite3/Connection.php on line 176.
+ 1 SYSTEMPATH/Database/SQLite3/Connection.php(176): SQLite3->query('SELECT *
+FROM `produits`
+WHERE `categorie` = \'pulls\'')
+ 2 SYSTEMPATH/Database/BaseConnection.php(729): CodeIgniter\Database\SQLite3\Connection->execute('SELECT *
+FROM `produits`
+WHERE `categorie` = \'pulls\'')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produits`
+WHERE `categorie` = \'pulls\'')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produits`
+WHERE `categorie` = :categorie:', [...], false)
+ 5 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH/Views/pulls.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/pulls.php')
+ 9 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+10 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('pulls', [], true)
+11 APPPATH/Controllers/Pulls.php(18): view('pulls')
+12 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Pulls->index()
+13 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pulls))
+14 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 18:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:42:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:45:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 18:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:20:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:20:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 19:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 20:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 21:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 21:39:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 21:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 21:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 21:49:35 --> Error: Object of class App\Enum\Category could not be converted to string
+[Method: GET, Route: /]
+in APPPATH/Config/Routes.php on line 25.
+ 1 SYSTEMPATH/Router/RouteCollection.php(339): require()
+ 2 SYSTEMPATH/CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 22:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 22:28:50 --> ErrorException: Undefined array key "ID"
+[Method: GET, Route: admin/products]
+in APPPATH/Views/adminproduct.php on line 26.
+ 1 APPPATH/Views/adminproduct.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ID"', '/var/www/html/CI4/app/Views/adminproduct.php', 26)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/adminproduct.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('adminproduct', [], true)
+ 5 APPPATH/Controllers/Adminproduct.php(9): view('adminproduct')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 22:29:24 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: admin/products]
+in APPPATH/Views/adminproduct.php on line 27.
+ 1 APPPATH/Views/adminproduct.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', '/var/www/html/CI4/app/Views/adminproduct.php', 27)
+ 2 SYSTEMPATH/View/View.php(226): include('/var/www/html/CI4/app/Views/adminproduct.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->{closure:CodeIgniter\View\View::render():223}()
+ 4 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('adminproduct', [], true)
+ 5 APPPATH/Controllers/Adminproduct.php(9): view('adminproduct')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 22:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 23:02:57 --> Error: Class "App\Controllers\Product" not found
+[Method: POST, Route: admin/products/delete]
+in APPPATH/Controllers/Adminproduct.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->delete()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 23:03:38 --> ErrorException: Undefined variable $Product
+[Method: POST, Route: admin/products/delete]
+in APPPATH/Controllers/Adminproduct.php on line 15.
+ 1 APPPATH/Controllers/Adminproduct.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Product', '/var/www/html/CI4/app/Controllers/Adminproduct.php', 15)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->delete()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 23:03:57 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\Product::findfirst
+[Method: POST, Route: admin/products/delete]
+in SYSTEMPATH/Model.php on line 927.
+ 1 APPPATH/Controllers/Adminproduct.php(15): CodeIgniter\Model->__call('findfirst', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->delete()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 23:04:48 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\Product::findFirst
+[Method: POST, Route: admin/products/delete]
+in SYSTEMPATH/Model.php on line 927.
+ 1 APPPATH/Controllers/Adminproduct.php(15): CodeIgniter\Model->__call('findFirst', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->delete()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 23:06:17 --> Error: Call to a member function delete() on null
+[Method: POST, Route: admin/products/delete]
+in APPPATH/Controllers/Adminproduct.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->delete()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 23:08:32 --> ErrorException: Undefined variable $productModel
+[Method: POST, Route: admin/products/delete]
+in APPPATH/Controllers/Adminproduct.php on line 15.
+ 1 APPPATH/Controllers/Adminproduct.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productModel', '/var/www/html/CI4/app/Controllers/Adminproduct.php', 15)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->delete()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-21 23:09:11 --> TypeError: App\Controllers\Adminproduct::delete(): Return value must be of type string, none returned
+[Method: POST, Route: admin/products/delete]
+in APPPATH/Controllers/Adminproduct.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->delete()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 23:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-21 23:10:29 --> TypeError: App\Controllers\Adminproduct::delete(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: POST, Route: admin/products/delete]
+in APPPATH/Controllers/Adminproduct.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Adminproduct->delete()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adminproduct))
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-21 23:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 23:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 23:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 23:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 23:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 23:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-21 23:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

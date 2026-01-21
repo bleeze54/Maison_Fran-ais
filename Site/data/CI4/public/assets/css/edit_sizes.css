@@ -1,0 +1,6 @@
+.content{max-width:900px;margin:24px auto;padding:0 16px;font-family:Poppins, sans-serif;color:#222}
+form{display:flex;flex-direction:column;gap:10px;background:#fff;padding:18px;border-radius:10px}
+label{font-weight:600}
+input[type=number]{width:120px;padding:8px;border-radius:8px;border:1px solid #ddd}
+button{width:120px;background:#000;color:#fff;padding:8px;border-radius:8px;border:none;cursor:pointer}
+@media (max-width:900px){.content{padding:12px}input[type=number]{width:100%}}

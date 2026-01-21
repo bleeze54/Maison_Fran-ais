@@ -1,0 +1,212 @@
+.commande_page * {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.commande_page {
+    min-height: 100vh;
+    background: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px 20px 100px; /* padding top = header, bottom = footer */
+}
+
+.commande_page h2 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #111;
+    margin-bottom: 20px;
+}
+
+.order_card {
+    background: #fff;
+    width: 100%;
+    max-width: 800px;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    padding: 25px 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    transition: transform 0.2s, background 0.2s;
+}
+
+.order_card:hover {
+    transform: translateY(-2px);
+    background: #f7f7f7;
+}
+
+.order_card p {
+    font-size: 16px;
+    color: #333;
+    font-weight: 500;
+    margin: 0;
+}
+
+.bouton_annuler {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 12px;
+    background: #d11a2a;
+    color: #fff;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.bouton_annuler:hover {
+    background: #b01522;
+}
+
+.aucune_commande {
+    font-size: 16px;
+    color: #555;
+    margin-top: 20px;
+}
+
+@media (max-width: 700px) {
+    .order_card {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+}
+:root {
+    --vert: #2ecc71;
+    --orange: #f39c12;
+    --gris: #95a5a6;
+    --danger: #e74c3c;
+    --shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.commande_container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titre_page {
+    color: #2c3e50;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+/* Grille de cartes */
+.orders_grid {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.order_card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: var(--shadow);
+    border: 1px solid #eee;
+    transition: transform 0.2s ease;
+}
+
+/* Force vertical stacking so details render below the header/body */
+.orders_grid .order_card {
+  display: block !important; /* force vertical flow inside the card */
+}
+
+/* sections should take full width so details appear below */
+.order_header,
+.order_body,
+.order_details,
+.order_footer {
+  width: 100%;
+}
+
+/* keep the body line horizontally arranged only inside itself */
+.order_body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* details spacing below body */
+.order_details {
+  margin-top: 10px;
+  width: 100%;
+  clear: both;
+}
+
+/* Header de la carte */
+.order_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.order_id {
+    font-weight: bold;
+    color: #34495e;
+    font-size: 1.1em;
+}
+
+/* Style des Vignettes (Badges) */
+.order_status {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+}
+
+.status-vert { background-color: var(--vert); }
+.status-orange { background-color: var(--orange); }
+.status-gris { background-color: var(--gris); }
+
+/* Corps de la carte */
+.order_body .order_price {
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #2c3e50;
+    margin: 0;
+}
+
+.order_body .order_date {
+    font-size: 0.9em;
+    color: #7f8c8d;
+    margin-top: 5px;
+}
+
+/* Footer & Bouton */
+.order_footer {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #f9f9f9;
+}
+
+.bouton_annuler {
+    background-color: transparent;
+    color: var(--danger);
+    border: 1px solid var(--danger);
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.bouton_annuler:hover {
+    background-color: var(--danger);
+    color: white;
+}
+
+.aucune_commande {
+    text-align: center;
+    padding: 40px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    color: #7f8c8d;
+}

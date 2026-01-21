@@ -1,0 +1,228 @@
+/* ==============================
+   RESET / BASE
+============================== */
+
+.categorie_carte_produit {
+    text-decoration: none;
+    color: inherit;
+}
+
+.categorie_carte_produit * {
+    text-decoration: none;
+    color: inherit;
+    box-sizing: border-box;
+}
+
+/* ==============================
+   PAGE CATEGORIE
+============================== */
+
+.page_categorie {
+    padding: 90px 20px;
+    background: #f5f5f5;
+}
+
+.page_categorie .conteneur_section {
+    max-width: 1300px;
+    margin: auto;
+}
+
+/* Titres */
+.titre_categorie {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.sous_titre_categorie {
+    text-align: center;
+    font-size: 18px;
+    color: #777;
+    max-width: 850px;
+    margin: 0 auto 60px;
+    line-height: 1.6;
+}
+
+/* ==============================
+   GRILLE PRODUITS
+============================== */
+
+.categorie_grille_produits {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 40px;
+}
+
+/* ==============================
+   CARTE PRODUIT
+============================== */
+
+.categorie_carte_produit {
+    background: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+    transition: transform .3s ease, box-shadow .3s ease;
+}
+
+.categorie_carte_produit:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 45px rgba(0,0,0,0.15);
+}
+
+/* Image */
+.categorie_visuel_produit {
+    height: 260px;
+    background-size: cover;
+    background-position: center;
+}
+
+/* ==============================
+   CONTENU
+============================== */
+
+.categorie_info_produit {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Nom produit */
+.categorie_info_produit h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    text-align: center;
+}
+
+/* Prix */
+.categorie_prix {
+    font-size: 19px;
+    font-weight: 700;
+    margin-bottom: 14px;
+    text-align: center;
+}
+
+/* Description */
+.categorie_desc {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+    text-align: left;
+    margin-bottom: 22px;
+    max-width: 90%;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+
+/* ==============================
+   PRIX AVEC REDUCTION
+============================== */
+
+.categorie_prix_reduc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 14px;
+}
+
+/* Ancien prix barré en rouge */
+.prix_ancien {
+    font-size: 15px;
+    color: #c0392b;
+    text-decoration: line-through;
+}
+
+/* Nouveau prix mis en avant */
+.prix_nouveau {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+}
+
+/* Badge réduction */
+.badge_reduction {
+    background-color: #c0392b;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 4px 8px;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+/* ==============================
+   BOUTON
+============================== */
+
+.categorie_btn {
+    margin-top: auto;
+    padding: 12px 28px;
+    background: #000;
+    color: #fff;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 500;
+    white-space: nowrap;
+    transition: background .25s ease, transform .25s ease;
+}
+
+.categorie_carte_produit:hover .categorie_btn {
+    background: #222;
+    transform: translateY(-2px);
+}
+
+.categorie_visuel_produit {
+    position: relative; /* Permet de positionner le badge par rapport à l'image */
+    overflow: hidden;
+}
+
+.badge_exclusivite {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #000; /* Noir ou une couleur vive */
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+    z-index: 10;
+}
+
+/* ==============================
+   RESPONSIVE
+============================== */
+
+@media (max-width: 768px) {
+    .titre_categorie {
+        font-size: 30px;
+    }
+
+    .categorie_visuel_produit {
+        height: 220px;
+    }
+}
+@media (max-width: 480px) {
+    .titre_categorie {
+        font-size: 24px;
+    }
+
+    .sous_titre_categorie {
+        font-size: 16px;
+    }
+
+    .categorie_visuel_produit {
+        height: 180px;
+    }
+}
